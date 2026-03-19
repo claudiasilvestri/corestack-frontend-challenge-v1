@@ -1,8 +1,18 @@
 # 🧩 CoreStack – Frontend Challenge v1
 
+## 🚀 Come partecipare
+
+1. Forka questa repository  
+2. Completa la challenge  
+3. Invia il link della tua repository  
+
+---
+
 ## 🎯 Obiettivo
 
 Questa challenge è pensata per simulare uno **step tecnico iniziale realistico** per frontend developer.
+
+Questa challenge è parte della beta di CoreStack, un progetto che vuole rendere la valutazione dei developer più basata sulle competenze reali che sul CV.
 
 L’obiettivo è valutare la capacità di lavorare con:
 
@@ -108,14 +118,6 @@ Invia:
 
 ---
 
-## 🚀 Come partecipare
-
-1. Forka questa repository  
-2. Completa la challenge  
-3. Invia il link della tua repository  
-
----
-
 ## 💬 Feedback
 
 Questa è una prima beta.
@@ -129,6 +131,9 @@ Dopo aver completato la challenge, ti chiederemo un feedback su:
 ---
 
 ## ℹ️ Note
+
+Non è necessario implementare un backend reale.  
+Puoi simulare la creazione di nuovi elementi lato frontend.
 
 Questa challenge non è pensata per essere perfetta, ma per essere:
 
